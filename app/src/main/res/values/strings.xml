@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">listjson</string>
+    <string name="name">Name</string>
+    <string name="button">Button</string>
+    <string name="add_btn">add Btn</string>
+    <color name="yeloow">#FA0000</color>
+</resources>
